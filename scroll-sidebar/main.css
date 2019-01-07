@@ -1,0 +1,19 @@
+
+
+
+.sidebar {
+  border: 2px black solid;
+  width: 200px;
+  right: 100px;
+  top: 100px;
+  position: fixed;
+}
+
+.main {
+  height: 800px;
+}
+
+.bottom {
+  background: lightblue;
+  height: 800px;
+}
