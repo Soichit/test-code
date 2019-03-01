@@ -1,9 +1,9 @@
 
 
 define('main', [
-  'template1.tpl'
+  // 'template1.tpl'
 ], function(
-  template1_tpl
+  // template1_tpl
 ) {
   'use strict';
 
